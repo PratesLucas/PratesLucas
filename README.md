@@ -2,7 +2,7 @@
 <h1 align="center">👋Olá, eu sou Lucas!</h1>
 <h3 align="center">Apaixonado por novos conhecimentos em front-end e back-end.</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&pause=1000&color=0389ab&center=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas+G.+M.+Prates.;Tenho+21+anos.;Cursando+ADS+no+IF+BAIANO." alt="Typing SVG" /></a>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475haqaa8mif15wxaptf3mpwa1in3qgb7x1wpaienc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" border-radius="10px" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475haqaa8mif15wxaptf3mpwa1in3qgb7x1wpaienc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 Aperfeiçoando cada vez mais em: **C, HTML, CSS, JS, MySQL, Java e Python**
 
